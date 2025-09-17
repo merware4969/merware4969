@@ -6,7 +6,6 @@
 - 팀 프로젝트와 개인 프로젝트를 통해 데이터 수집, 분석, 모델링, 배포까지 전 과정을 경험했습니다.
 
 ## 🔨 기술 스택
-## 🔨 기술 스택
 
 **언어**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
