@@ -40,6 +40,11 @@
 - [수원시 버스 노선 시각화 시스템](https://github.com/dzknight/bus)
   → 공공데이터 기반 Flask 웹 앱, 노선/정류장 시각화 및 시간대별 탑승 인원 분석
 
+## 자격증
+- 빅데이터분석기사(2025-07-11 취득)
+- SQL개발자(2023-04-14 취득)
+- 데이터분석 준전문가(2022-09-23 취득)
+
 ## 📫 연락처
 - 이메일: kco19981116@gmail.com
 - Notion: [Notion](https://excellent-antique-5b2.notion.site/c356fc5636504339abb8fadc9bd82ec2?pvs=74)
