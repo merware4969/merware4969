@@ -7,10 +7,11 @@
 
 ## 🔨 기술 스택
 - **언어**: Python, SQL  
-- **ML/DL**: Scikit-learn, PyTorch, LightGBM  
+- **ML/DL**: Scikit-learn, PyTorch, TensorFlow
+- **LLM**: RAG, LangChain, HuggingFace, vectorDB
 - **백엔드**: FastAPI, Flask  
-- **데이터베이스**: MySQL/MariaDB, MongoDB  
-- **기타**: Docker, Tableau, GitHub
+- **데이터베이스**: MySQL/MariaDB, MongoDB, FAISS, ChromaDB  
+- **기타**: Docker, Streamlit, Gradio, Tableau, GitHub
 
 ## 📌 주요 프로젝트
 - [Redfin RAG — FastAPI 기반 RAG + 뉴스 출간 API](https://github.com/team-spark-code/redfin_rag)  
