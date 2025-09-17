@@ -24,4 +24,4 @@
 
 ## 📫 연락처
 - 이메일: kco19981116@gmail.com
-- Notion: https://excellent-antique-5b2.notion.site/c356fc5636504339abb8fadc9bd82ec2?pvs=74
+- Notion: [Notion](https://excellent-antique-5b2.notion.site/c356fc5636504339abb8fadc9bd82ec2?pvs=74)
